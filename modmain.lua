@@ -5,7 +5,7 @@ GLOBAL.setmetatable(env, {
 		end
 	end,
 })
-
+ 
 STRINGS.NAMES.LR_EMPERORBOW = "帝王弓"
 STRINGS.CHARACTERS.GENERIC.DESCRIBE.LR_EMPERORBOW = "只有拥有帝王之气的人才能驾驭它"
 local IsServer = TheNet:GetIsServer()
